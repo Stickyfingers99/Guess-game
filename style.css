@@ -149,13 +149,13 @@ h1 {
     display: flex;
     flex-direction: column;
     align-items: center;
-    top: 18rem;
+    top: 12rem;
     right: 5rem;
     left: 5rem;
   }
 
   .reset {
-    top: 5rem;
+    top: 2rem;
     right: 5rem;
     left: 5rem;
     border-radius: 10px;
@@ -188,8 +188,11 @@ h1 {
     text-align: center;
     position: absolute;
     width: 100%;
-    top: 33rem;
+    top: 25rem;
     left: 50%;
     transform: translate(-50%, -50%);
+  }
+  .number {
+    margin-top: 10rem;
   }
 }
