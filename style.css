@@ -123,13 +123,6 @@ h1 {
   border-radius: 10px;
 }
 
-@media (max-width: 800px) {
-  html {
-    font-size: 40%;
-    box-sizing: border-box;
-  }
-}
-
 @media (max-width: 480px) {
   html {
     font-size: 39%;
