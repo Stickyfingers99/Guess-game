@@ -168,6 +168,7 @@ h1 {
     text-align: center;
     width: 100%;
     top: 23rem;
+    bottom: 23rem;
     left: 50%;
     transform: translate(-50%, -50%);
   }
@@ -179,7 +180,6 @@ h1 {
     padding: 3rem 0rem;
     align-items: center;
     text-align: center;
-    margin-top: 60%;
     bottom: 0;
     transform: translate(-50%, 50%);
   }
